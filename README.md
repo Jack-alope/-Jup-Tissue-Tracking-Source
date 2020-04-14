@@ -17,3 +17,8 @@ _Using Matplotlib widgets to allow users to select posts for tracking and levera
 _Using ipywidgets and plotly allows for interactive graphing and selection of the data_  
   
 Analysis Parameters:
+><strong>_Polynomial:_</strong> What degree polymonial should be used in the curve finding.  
+<strong>_Window Length:_</strong> Number of coefficients used for the smoothing. Must be odd, must be larger than polynomial.  
+<strong>_Peak Sensitiy:_</strong> How sensitive it is to finding peaks. Between (0, 1).  
+<strong>_Buffer_:_</strong> If there basepoint is too high adjust this. 
+<strong>_Minimum Distance:_</strong> If there is a double peak use this to ignore one
