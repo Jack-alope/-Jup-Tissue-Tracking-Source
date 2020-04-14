@@ -9,3 +9,11 @@ This README.md will act as a user manual, explaining each part of this project a
 
 >This is a diagram of the basic workflow while using this system.
 >![Diagram](assets/7275C496-239D-4D63-822E-881625F03C71.jpeg)
+
+## Post Tracking Dashboard
+_Using Matplotlib widgets to allow users to select posts for tracking and leveraging OpenCV libraries to track the posts through the frames_
+
+## Analysis Dashboard
+_Using ipywidgets and plotly allows for interactive graphing and selection of the data_  
+  
+Analysis Parameters:
