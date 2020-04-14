@@ -4,4 +4,4 @@
 
 This is a system designed to track and analyze post deflections caused by cardiac tissue contractions. 
 
-It is written entirely in python based Jupyter Notebooks, hosted using The Littlest JupyterHub, and rendered using Voila. 
+It is written entirely in python based [Jupyter Notebooks](https:/jupyter.org/), hosted using [The Littlest JupyterHub](http://tljh.jupyter.org/), and rendered using [Voila](https://github.com/voila-dashboards/voila/). 
