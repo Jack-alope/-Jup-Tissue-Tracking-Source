@@ -1,6 +1,6 @@
 # Tissue Tracking Source Code Repo
 
-## Visit https://github.com/Jack-alope/Multi_Tissue_Tracking
+Visit https://github.com/Jack-alope/Multi_Tissue_Tracking instead
 [![Tracking Dashboard](https://img.shields.io/badge/Tracking-Dashboard-red?style=for-the-badge)](https://track.jack.engineering) [![Analysis Dashboard](https://img.shields.io/badge/Analysis-Dashboard-red?style=for-the-badge)](https://analysis.jack.engineering)  
 
 This is a system designed to track and analyze post deflections caused by cardiac tissue contractions. It is written entirely in python based [Jupyter Notebooks](https:/jupyter.org/), hosted using [The Littlest JupyterHub](http://tljh.jupyter.org/), and rendered using [Voila](https://github.com/voila-dashboards/voila/). 
